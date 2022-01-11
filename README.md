@@ -8,7 +8,7 @@ What it means? Write code once. Deploy to multiple targets. Match native perform
 At TeraThought, we use Firebase as a flexible solution for our backend - it gives us a NoSQL database, real-time cloud functions, analytics, and much more!
 
 Flare is our library to work with anything and everything Firebase in Kotlin Multiplatform!
-Check it out [here](https://terathought.github.io/flare)
+Check it out [here](https://terathought.github.io/flare/)
 
 
 ### Magic 🌀
